@@ -1,7 +1,7 @@
 # pi5-quantumclassical
 
 Module C 
-- libgpiod-dev
+- libgpiod-dev [https://libgpiod.readthedocs.io/en/stable/]
 
 gpiodetect - 5 lines:
 ```shell
