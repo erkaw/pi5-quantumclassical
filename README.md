@@ -9,6 +9,7 @@
 - libgpiod-dev [https://libgpiod.readthedocs.io/en/stable/]
 
 ## Citation 
+```bibtex
 @misc{fredianelli_2025_17033970,
   author       = {Fredianelli, Luca and
                   Artuso, Francesco and
@@ -25,3 +26,4 @@
   doi          = {10.5281/zenodo.17033970},
   url          = {https://doi.org/10.5281/zenodo.17033970},
 }
+```
