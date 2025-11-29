@@ -4,13 +4,15 @@ Module C
 - libgpiod-dev
 
 gpiodetect - 5 lines:
+```shell
 gpiochip0 [pinctrl-rp1] (54 lines)
 gpiochip10 [gpio-brcmstb@107d508500] (32 lines)
 gpiochip11 [gpio-brcmstb@107d517c00] (15 lines)
 gpiochip12 [gpio-brcmstb@107d517c20] (6 lines)
 gpiochip13 [gpio-brcmstb@107d508520] (4 lines)
-
+```
 gpiochip0 - 54 lines:
+```shell
         line   0:       "ID_SDA"                input
         line   1:       "ID_SCL"                input
         line   2:       "GPIO2"                 input
@@ -65,3 +67,4 @@ gpiochip0 - 54 lines:
         line  51:       "-"                     input
         line  52:       "-"                     input
         line  53:       "-"                     input
+```
