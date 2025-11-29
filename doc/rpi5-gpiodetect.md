@@ -1,6 +1,6 @@
 # RPI5B - _gpiodetect_
 
-```shell
+```
 gpiodetect - 5 lines:
 	gpiochip0 [pinctrl-rp1] (54 lines)
 	gpiochip10 [gpio-brcmstb@107d508500] (32 lines)

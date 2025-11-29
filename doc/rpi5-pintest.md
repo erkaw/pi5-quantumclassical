@@ -1,6 +1,6 @@
 # RPI5B - _pintest_
 
-```shell
+```
 This program checks the board's user-accessible GPIO pins. The board's model is: Raspberry Pi 5B rev 1.1. The following pins are selected for testing:
 
 GPIO22, GPIO6, GPIO16, GPIO10, GPIO12, GPIO25, GPIO9, GPIO13, GPIO5, GPIO7, GPIO20, GPIO2, GPIO15, GPIO19, GPIO21, GPIO17, GPIO23, GPIO0, GPIO18, GPIO1, GPIO4, GPIO27, GPIO14, GPIO26, GPIO3, GPIO8, GPIO11, GPIO24

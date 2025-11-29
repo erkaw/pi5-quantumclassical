@@ -1,6 +1,6 @@
 # RPI5B - _gpioinfo_
 
-```shell
+```
 gpiochip0 - 54 lines:
         line   0:       "ID_SDA"                input
         line   1:       "ID_SCL"                input

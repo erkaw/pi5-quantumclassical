@@ -1,6 +1,6 @@
 # RPI5B - _pinout_
 
-```shell
+```
 Description        : Raspberry Pi 5B rev 1.1
 Revision           : d04171
 SoC                : BCM2712
